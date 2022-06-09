@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 08 21:22:59 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0181-460e-b9b9-00000dca2fe8 
+on database directory C:\Users\md963\Documents\NetBeansProjects\ElectronicsSiteDAOFly_1\electronicsdb with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
+Loaded from file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\Users\md963\Documents\NetBeansProjects\ElectronicsSiteDAOFly_1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/entity/OrdersDAO.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/entity/Item.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/program/Main.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/db/migrations/V3__Create_Orders_table.sql</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/entity/DAO.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/db/migrations/V1__Create_Customer_table.sql</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/entity/ItemDAO.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/entity/CustomerDAO.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/entity/Orders.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/entity/Customer.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/program/Main2.java</file>
+            <file>file:/C:/Users/md963/Documents/NetBeansProjects/ElectronicsSiteDAOFly_1/src/db/migrations/V2__Create_Item_table.sql</file>
+        </group>
+    </open-files>
+</project-private>
